@@ -9,6 +9,7 @@ public class Main {
         System.out.println(new Date());
         System.out.println("This is test");
         System.out.println("This is one more file");
-
+        Student student = new Student();
+        student.sayHello();
     }
 }
